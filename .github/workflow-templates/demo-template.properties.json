@@ -1,0 +1,13 @@
+{
+  "name": "DEMO CI",
+  "description": "DEMO CI template",
+  "iconName": "deploy-icon",
+  "categories": [
+      "ASP.NET"
+  ],
+  "filePatterns": [
+      "package.json$",
+      "^Dockerfile",
+      ".*\\.md$"
+  ]
+}
