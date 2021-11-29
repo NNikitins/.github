@@ -1,0 +1,15 @@
+{
+  "name": "React typescript CI/CD template",
+  "description": "React typescript project CI/CD template",
+  "iconName": "react-icon",
+  "categories": [
+      "TSX"
+  ],
+  "filePatterns": [
+      "package.json$",
+      "^Dockerfile",
+      ".*\\.md$",
+      ".*.tsx$",
+      ".*.ts$"
+  ]
+}
